@@ -183,4 +183,4 @@ py -m pytest
 
 ## Vídeo
 
-Adicione aqui o link do vídeo de apresentação após a gravação.
+[Link para o vídeo de apresentação](https://youtu.be/QJ3XJ50krck)
